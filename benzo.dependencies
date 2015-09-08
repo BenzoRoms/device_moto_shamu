@@ -1,0 +1,8 @@
+[
+ {
+   "remote":      "benzo",
+   "repository":  "BenzoRoms/kernel_moto_shamu",
+   "target_path": "kernel/moto/shamu",
+   "revision":    "marshmallow"
+ }
+]
